@@ -1,6 +1,16 @@
 # routeTracer
 Claude enabled route tracing integration discovery project
 
+Im going to bed but while I sleep I want Claude to read the proposed project details in this README.md file and build the infrastructure as described.
+
+The source system information can be found in this repo --> https://github.com/crhoads1024/cucumber-kafka-test-framework
+The Jira board I want to route work thru is found here --> https://routetrace.atlassian.net/jira/software/projects/KAN/boards/1
+The system under test framework documentation and install instructions and training lessons are in the current repo you are reading from.
+Please read the training lessons and treat each exercise as a Jira story and document the work youre doing in the training modules to help test out the Jira functionality of the fully automated QA framework that this reoute trace project will simultaneously implement and harden.
+The fully automated QA implementation details I want to build in order to enhance my reoute trace famework is also found in this repo you are reading right now.
+
+Now, Im going to bed, please code until this is completed and functional
+
 CLAUDE PROMPT PACK - SYSTEM TRACE & JIRA AUTO UPDATE
 
 ====================================
